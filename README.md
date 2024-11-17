@@ -5,7 +5,7 @@ En búsqueda de mi primera experiencia en el mundo IT dentro de un equipo profes
 --
 
 ### 📫 How to reach me:
-- Email: [genesisdabreu@gmail.com]()
+- Email: [deabreuugenesis@gmail.com]()
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g%C3%A9nesis-de-abreu-569755261/)
