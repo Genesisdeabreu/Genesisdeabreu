@@ -2,7 +2,7 @@
 
 En búsqueda de mi primera experiencia en el mundo IT dentro de un equipo profesional que me permita crecer tanto como persona y técnicamente. Actualmente estoy desarrollando mi perfil técnico como **desarrollador front-end**, dominando **HTML**, **CSS** y ahora **JavaScript**.
 
---
+---
 
 ### 📫 How to reach me:
 - Email: [deabreuugenesis@gmail.com]()
