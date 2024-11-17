@@ -8,8 +8,8 @@ En búsqueda de mi primera experiencia en el mundo IT dentro de un equipo profes
 - Email: [genesisdabreu@gmail.com]()
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu-perfil)
+[![LinkedIn](https://www.linkedin.com/in/g%C3%A9nesis-de-abreu-569755261/)
+[![Instagram](https://www.instagram.com/genesisdeau/)
 
 ---
 
